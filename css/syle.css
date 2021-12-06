@@ -1,0 +1,71 @@
+ .fundo_nave{
+ 	
+ 	background-color: #8C8C8C;
+ }
+
+ .col-md-7{
+	 
+	 margin-top: 10%;
+ }
+
+.fundo{
+	background-color: #737373;
+}
+
+.imagemeu{
+	width: 350px;
+	margin-top: 30px;
+	
+}
+
+.rodape{
+ 	background-color: #8C8C8C;
+	 
+}
+
+.titulo{
+	text-align: center;
+	color: black;
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+}
+
+.contato{
+	background-color: #8C8C8C;
+	text-align: center;
+	color: white;
+}
+
+.paragrafo{
+	color: black;
+	font-family: 'Fuzzy Bubbles', cursive;
+	font-size: 20px;
+}
+
+.competenciaimg{
+	margin: 0 auto;
+	text-align: center;
+	width: 950px;
+	height: 100%;
+}
+
+.esp{
+	margin-top: 50px;
+}
+
+.exp{
+	margin-top: 50px;
+}
+
+.hob{
+	margin-top: 50px;
+}
+
+.cont{
+	margin-top: 50px;
+}
+
+.espaço{
+	
+	color:  #737373;
+}
